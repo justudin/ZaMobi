@@ -1,0 +1,11 @@
+MIDlet-1: ZaMobi, zakah.gif, ZaMobi
+MIDlet-Description: Mobile Apps for Calculating Zakah
+MIDlet-Icon: zakat.gif
+MIDlet-Info-URL: www.zamobi.co.tv
+MIDlet-Jar-Size: 18600
+MIDlet-Jar-URL: ZaMobi.jar
+MIDlet-Name: ZaMobi
+MIDlet-Vendor: udinjust4u
+MIDlet-Version: 0.1 Beta
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
